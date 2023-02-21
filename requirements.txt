@@ -2,7 +2,5 @@ sklearn
 scikit-learn
 matplotlib
 seaborn
-pandas
-numpy
 streamlit
 streamlit_option_menu
